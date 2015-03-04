@@ -12,6 +12,8 @@
   renaming files and folders, recursive uploading from a local 
   directory, recursive downloading from a server, making new 
   directories and recursive deleting on a server.
+  
+  ![Screenshots](http://hockey.maweb.eu/other/githubFTP.gif)
 
 
 ### Documentation
@@ -50,8 +52,6 @@
   Please see file called *LICENSE*.
   
   
-### Thanks  
-  Thank you for using my Simple FTP Client with GUI and feel free
-  to contact me.
+### Developed By
   
-  Maleček Kamil, malecek.kamil@gmail.com, 2015
+  Maleček Kamil, 2015
